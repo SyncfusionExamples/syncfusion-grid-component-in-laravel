@@ -27,7 +27,7 @@ A lightweight, production-ready pattern for binding **MySQL** data to a **Syncfu
 ### 1) Clone the Repository
 
 ```bash
-git clone https://github.com/SyncfusionExamples/syncfusion-grid-component-in-laravel
+git clone https://github.com/SyncfusionExamples/syncfusion-grid-component-in-php-laravel
 cd syncfusion-grid-component-in-laravel
 ```
 
